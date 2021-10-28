@@ -1,0 +1,10 @@
+C:\TreinamentoC\listas\listas\bin\Debug\listas.exe.config
+C:\TreinamentoC\listas\listas\bin\Debug\listas.exe
+C:\TreinamentoC\listas\listas\bin\Debug\listas.pdb
+C:\TreinamentoC\listas\listas\obj\Debug\listas.csproj.AssemblyReference.cache
+C:\TreinamentoC\listas\listas\obj\Debug\listas.Form1.resources
+C:\TreinamentoC\listas\listas\obj\Debug\listas.Properties.Resources.resources
+C:\TreinamentoC\listas\listas\obj\Debug\listas.csproj.GenerateResource.cache
+C:\TreinamentoC\listas\listas\obj\Debug\listas.csproj.CoreCompileInputs.cache
+C:\TreinamentoC\listas\listas\obj\Debug\listas.exe
+C:\TreinamentoC\listas\listas\obj\Debug\listas.pdb
